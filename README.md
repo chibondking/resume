@@ -90,5 +90,5 @@ Versatile Senior Quality Engineer and Technical Systems Specialist with over 10 
 
 * **Open Source:** Creator of R package `datawrapper`, contributed patches to `Quantmod`.
 * **Expert Group Member:** JSR 91: Telecom Trouble Ticket API Specification.
-* **Community Leadership:** Metro DX Club Vice President & Digital Manager (2023 - Present); Society Of Midwest Contesters Board Member (2019-2021).
+* **Community Leadership:** Metro DX Club Vice President & Digital Manager (2023 - 2025); Society Of Midwest Contesters Board Member (2019-2021).
 * **Volunteering:** Math & Electronic Engineering Tutor, Main St. Baptist Church; Radio Communications & Field Operations, Kane County (IL) Office Of Emergency Management.
