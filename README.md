@@ -1,16 +1,16 @@
-# Cedrick Johnson
+# 👋 Hi, I am Cedrick Johnson
 **Senior QA Automation Engineer | Technical Systems Specialist**
 +1 (815) 683 8915 | cj@cedrick.io | [cedrick.io](https://cedrick.io)
 [linkedin.com/in/cedrickj](https://www.linkedin.com/in/cedrickj) | [github.com/chibondking](https://github.com/chibondking)
 
 ---
 
-## Summary
+## Summary 💡
 Versatile Senior Quality Engineer and Technical Systems Specialist with over 10 years of experience in test automation, data validation, and environment management. Proven track record of architecting automated testing solutions for cloud-native platforms (AWS, Snowflake) and providing complex technical support for independent clients. Returning to the workforce following a planned career sabbatical for family caregiving, bringing a renewed perspective, sharpened problem-solving skills, and a commitment to software reliability and user satisfaction.
 
 ---
 
-## Technical Skills
+## Technical Skills 🧰
 
 * **Automation:** Playwright, Cypress, Appium, Selenium, Rspec, Cucumber, JMeter, JUnit/NUnit, TestRail
 * **Languages & Data:** Typescript, Ruby, C#, R, Java, Python, SQL (Postgres, MySQL, SQL Server, Oracle), Snowflake, Snowplow, LaTeX
@@ -22,7 +22,7 @@ Versatile Senior Quality Engineer and Technical Systems Specialist with over 10 
 
 ---
 
-## Professional Experience
+## Professional Experience 🚀
 
 ### **Quality Engineer**
 **Acquia** | Remote / Madison, WI | *04/2022 – 12/2023*
@@ -88,7 +88,7 @@ Versatile Senior Quality Engineer and Technical Systems Specialist with over 10 
 
 ---
 
-## Open Source & Community
+## Open Source & Community ⚙️
 
 * **Open Source:** Creator of R package `datawrapper`, contributed patches to `Quantmod`.
 * **Expert Group Member:** JSR 91: Telecom Trouble Ticket API Specification.
