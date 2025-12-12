@@ -1,4 +1,4 @@
-# Cedrick Johnson
+👋# Hi, I am Cedrick Johnson!
 **Senior QA Automation Engineer | Technical Systems Specialist**
 +1 (815) 683 8915 | cj@cedrick.io | [cedrick.io](https://cedrick.io)
 [linkedin.com/in/cedrickj](https://www.linkedin.com/in/cedrickj) | [github.com/chibondking](https://github.com/chibondking)
