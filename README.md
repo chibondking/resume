@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Cedrick Johnson
+
 **Senior Quality Engineer (Automation & Systems)**
 +1 (815) 683 8915 | cj@cedrick.io | [cedrick.io](https://cedrick.io)
 [linkedin.com/in/cedrickj](https://www.linkedin.com/in/cedrickj) | [github.com/chibondking](https://github.com/chibondking)
@@ -6,6 +7,7 @@
 ---
 
 ## Summary 📰
+
 Senior Quality Engineer with 10+ years of hands-on experience in functional, regression, and automated testing for complex SaaS and data-driven platforms. Proven ability to design test strategies, implement UI and API automation, and validate data integrity across cloud environments in Agile teams. Experienced in Playwright, API testing, accessibility, and end-to-end quality ownership. Recently returning to full-time individual contributor work following a planned family caregiving sabbatical.
 
 ---
@@ -26,6 +28,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 ## Professional Experience 🚀
 
 ### **Quality Engineer**
+
 **Acquia** | Remote / Madison, WI | *04/2022 – 12/2023*
 
 * Spearheaded UI test automation using **Playwright** for a new analytics front-end, supporting regression and release testing across multiple platform iterations (Cumul.io and Highcharts).
@@ -38,6 +41,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 * Designed and executed manual tests for database migrations within the Product Information Management (PIM) module.
 
 ### **Principal Technical Consultant**
+
 **Johnson Radio Technologies, LLC** | *08/2020 – Present*
 
 * Architect and deploy complex remote operation solutions, integrating legacy radio hardware with modern control software (*FlexRadio, ICOM RS-BA*) to ensure seamless station automation and low-latency performance.
@@ -47,6 +51,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 * Author comprehensive technical documentation and user guides to empower clients to independently manage their systems, resulting in a 97% client retention rate.
 
 ### **Senior QA Engineer**
+
 **GPShopper / Synchrony Financial** | Chicago, IL | *07/2018 – 02/2020*
 
 * Tested mobile applications (iOS/Android) using different physical devices/emulators.
@@ -57,6 +62,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 * Managed and maintained CI pipeline operations in **ConcourseCI**, ensuring reliable automated builds and testing for both mobile and web applications.
 
 ### **QA Engineer (QA Infrastructure)**
+
 **Uptake** | Chicago, IL | *06/2017 – 01/2018*
 
 * Refactored a legacy suite of Selenium tests (approx. 270) to use updated page objects (POM) and vastly simplify test readability and maintainability.
@@ -65,6 +71,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 * Refactored the Jenkins pipeline codebase to give users of pipelines accurate, helpful error messaging when builds could not complete successfully.
 
 ### **QA Engineer**
+
 **Convergex, LLC** | Chicago, IL | *01/2016 – 02/2017*
 
 * Implemented test environment infrastructure: Jenkins, Git (Github/Gitlab).
@@ -73,6 +80,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 * Streamlined manual testing workflows and enhanced reporting accuracy by centralizing test cases and results in **TestRail**.
 
 ### **QA Engineer**
+
 **Enova International** | Chicago, IL | *08/2014 – 12/2015*
 
 * Led testing of the re-implementation of a popular loan product that directly contributed to a marked improvement in the UK loan revenue stream, with no issues upon launch.
@@ -80,6 +88,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 * Performed load testing on several new Ruby On Rails projects to identify performance bottlenecks and suggest improvements.
 
 ### **QA Engineer**
+
 **Backstop Solutions Group, LLC** | Chicago, IL | *08/2011 – 08/2014*
 
 * Led testing of C# applications (both manual and automated): Excel plugin (Statistics, Reporting and Custom tear sheet creation), Outlook plugin and SQL Server Reporting Services (SSRS).
