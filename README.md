@@ -1,16 +1,16 @@
-# Cedrick Johnson
+# 👋 Hi, I'm Cedrick Johnson
 **Senior Quality Engineer (Automation & Systems)**
 +1 (815) 683 8915 | cj@cedrick.io | [cedrick.io](https://cedrick.io)
 [linkedin.com/in/cedrickj](https://www.linkedin.com/in/cedrickj) | [github.com/chibondking](https://github.com/chibondking)
 
 ---
 
-## Summary
+## Summary 📰
 Senior Quality Engineer with 10+ years of hands-on experience in functional, regression, and automated testing for complex SaaS and data-driven platforms. Proven ability to design test strategies, implement UI and API automation, and validate data integrity across cloud environments in Agile teams. Experienced in Playwright, API testing, accessibility, and end-to-end quality ownership. Recently returning to full-time individual contributor work following a planned family caregiving sabbatical.
 
 ---
 
-## Technical Skills
+## Technical Skills 🧰
 
 * **General QA (Tools and Processes):** Jira, Confluence, TestRail, Charles Proxy, BrowserStack, Regression Testing, Load Testing, Integration Testing
 * **Specialized QA:** Accessibility Testing (Axe, WCAG 2.1), Visual Regression, VPAT Audits, A/B Testing
@@ -23,7 +23,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 
 ---
 
-## Professional Experience
+## Professional Experience 🚀
 
 ### **Quality Engineer**
 **Acquia** | Remote / Madison, WI | *04/2022 – 12/2023*
@@ -89,7 +89,7 @@ Senior Quality Engineer with 10+ years of hands-on experience in functional, reg
 
 ---
 
-## Open Source & Community
+## Open Source & Community 🌟
 
 * **Open Source:** Creator of R package `datawrapper`, contributed patches to `Quantmod`.
 * **Expert Group Member:** JSR 91: Telecom Trouble Ticket API Specification.
