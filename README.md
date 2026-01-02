@@ -7,6 +7,7 @@
 ---
 
 ## Summary 📰
+
 Hands-on QA Engineer focused on uncovering failure modes to avoid production failures. Experienced partnering closely with product and engineering to validate system behavior under real user conditions, surface risk early, and reduce customer-impacting defects across complex, integrated systems. Following a planned career sabbatical for full-time family caregiving, I am now returning to hands-on QA work.
 ---
 
