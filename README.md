@@ -7,9 +7,7 @@
 ---
 
 ## Summary 📰
-
-Senior Quality Engineer with 10+ years of hands-on experience in functional, regression, and automated testing for complex SaaS and data-driven platforms. Proven ability to design test strategies, implement UI and API automation, and validate data integrity across cloud environments in Agile teams. Experienced in Playwright, API testing, accessibility, and end-to-end quality ownership. Recently returning to full-time individual contributor work following a planned family caregiving sabbatical.
-
+Hands-on QA Engineer focused on uncovering failure modes to avoid production failures. Experienced partnering closely with product and engineering to validate system behavior under real user conditions, surface risk early, and reduce customer-impacting defects across complex, integrated systems. Following a planned career sabbatical for full-time family caregiving, I am now returning to hands-on QA work.
 ---
 
 ## Technical Skills 🧰
